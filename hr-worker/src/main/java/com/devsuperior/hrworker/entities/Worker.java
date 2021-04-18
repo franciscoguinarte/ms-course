@@ -82,5 +82,4 @@ public class Worker implements Serializable {
 	}
 	private double dailyIncome;
 	
-	String teste = "TESTE";
 }
