@@ -81,5 +81,6 @@ public class Worker implements Serializable {
 		this.dailyIncome = dailyIncome;
 	}
 	private double dailyIncome;
-
+	
+	String teste = "TESTE";
 }
